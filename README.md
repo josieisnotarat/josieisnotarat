@@ -1,6 +1,6 @@
 <h1 align="left">👋 Howdy, I'm Josie! :D</h1>
 <p align="left">
-🎓 Triple-major honors student | 💻 Intern Software Engineer & Lab Technician
+🎓 Triple-major honors student | 💻 Intern Software Engineer & Lab Technician <br>
 Currently studying Software Engineering Technologies, Software Development, and Computer Support/Administration.
 </p>
 
