@@ -1,5 +1,5 @@
 <h1 align="left">Howdy, I'm Josie! :D</h1>
-<h3 align="left">I'm currently a triple major in software engineering & IT.</h3>
+<p align="left">Welcome to my profile! I'm a current triple-major honors student studying software engineering and systems administration. I have a deep-seated passion for learning, especially when it comes to programming, artificial intelligence, and databases.</p>
 
 - 🌱 In-Progress Classes: **Web development using C# and C.**
 - 🤓 Current Projects: ...
