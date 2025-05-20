@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm Josie! :D</h1>
-<h3 align="left">A triple major undergrad student in software engineering & IT.</h3>
+<h1 align="left">Howdy, I'm Josie! :D</h1>
+<h3 align="left">I'm currently a triple major in software engineering & IT.</h3>
 
-- 🌱 I’m currently learning **Web development using C# and C.**
+- 🌱 In-Progress Classes: **Web development using C# and C.**
+- 🤓 Current Projects: ...
 - 📫 How to reach me: **josephine.wooldridge05@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
