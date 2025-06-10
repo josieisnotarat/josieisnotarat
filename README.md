@@ -20,9 +20,12 @@ Currently studying Software Engineering Technologies, Software Development, and 
 ---
 
 ### 🛠️ Projects & Shenanigans (in-progress & upcoming)
+- 💻 Working on my personal website!
 - 🤖 Building my own custom AI home assistant named **Glitch** on a Raspberry Pi
 - 🧙‍♀️ Developing an AI-powered D&D DM bot: **L0R3.exe**
 - 📺 Designing a faux CRT TV helmet thing that makes you look like a robot w/ cute animated expressions
+- 🪞 Trying to figure out something to do with smart mirrors...
+- 🧹 Brainstorming ideas for an idle game centered around cleaning robots
 
 ---
 
