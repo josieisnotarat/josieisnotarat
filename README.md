@@ -14,12 +14,6 @@ Currently studying Software Engineering Technologies, Software Development, and 
 
 ---
 
-### 📚 Currently Learning
-- 🌐 Web Development w/ **C# & MySQL**
-- 🖥️ Low-level system programming in **C**
-
----
-
 ### 🛠️ Projects & Shenanigans (in-progress & upcoming)
 - 💻 Working on my personal website!
 - 🤖 Building my own custom AI home assistant named **Glitch** on a Raspberry Pi
@@ -30,9 +24,9 @@ Currently studying Software Engineering Technologies, Software Development, and 
 
 ---
 
-### 📫 Reach Me!
-- 📨 Email: [josephine.wooldridge05@gmail.com](mailto:josephine.wooldridge05@gmail.com)
-- 🧠 Or just summon me with a well-formed SQL query
+### 📚 Currently Learning
+- 🌐 Web Development w/ **C# & MySQL**
+- 🖥️ Low-level system programming in **C**
 
 ---
 
