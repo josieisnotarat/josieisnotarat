@@ -1,22 +1,12 @@
 ![Header](./image.png)
 
-
-<p align="left">
-Currently studying Software Engineering Technologies, Software Development, and Computer Support/Administration, plus an in-progress certification in Network Administration.
-</p>
-
 ---
 
 ### 🌟 About Me
+- 📖 Currently studying Software Engineering Technologies, Software Development, and Computer Support/Administration, plus an in-progress certification in Network Administration.
 - 🧠 Lifelong learner with a soft spot for **AI**, **automation**, and **attempting to make things pretty**.
-- 🔧 Passionate about debugging, building tools, and making things just work™ (even if I don't entirely know why).
+- 🔧 Passionate about debugging, clear documentation, and making things just work™ (even if I don't entirely know why).
 - 🤓 Will 100% have 6 new project ideas before last week's is finished.
-
----
-
-### 📚 Currently Learning
-- 🌐 Web Development w/ **C# & MySQL**
-- 🖥️ Low-level system programming in **C**
 
 ---
 
@@ -30,9 +20,9 @@ Currently studying Software Engineering Technologies, Software Development, and 
 
 ---
 
-### 📫 Reach Me!
-- 📨 Email: [josephine.wooldridge05@gmail.com](mailto:josephine.wooldridge05@gmail.com)
-- 🧠 Or just summon me with a well-formed SQL query
+### 📚 Currently Learning
+- 🌐 Web Development w/ **C# & MySQL**
+- 🖥️ Low-level system programming in **C**
 
 ---
 
