@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=josieisnotarat&color=lightblue"/>
+<img src="https://komarev.com/ghpvc/?username=josieisnotarat&color=blue"/>
 ![Header](./image.png)
 
 ---
