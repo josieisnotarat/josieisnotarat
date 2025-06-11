@@ -1,6 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=josieisnotarat&color=blue"/>
 ![Header](./image.png)
 
+<img src="https://komarev.com/ghpvc/?username=josieisnotarat&color=blue"/>
 ---
 
 ### 🌟 About Me
