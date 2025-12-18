@@ -11,8 +11,8 @@
   - Computer Systems Administration (AAS, in progress)  
   - Network Administration Certificate
 - 🛠️ IT technician / programmer with hands-on experience in **support, systems, and full-stack dev**
-- 🤖 Big into **AI, automation, and building weird-but-useful things**
-- 💭 Constantly juggling like 6 projects at once
+- 🤖 Big into AI, automation, and building cool and maybe impractical stuff
+- 💭 Constantly juggling like 6 projects at once 
 
 ---
 
