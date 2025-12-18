@@ -31,9 +31,9 @@
 ---
 
 ## 🧠 Currently Learning
-- 🎛️ **Digital Systems** — analyzing, designing, and troubleshooting digital logic circuits including logic gates, Boolean algebra, flip-flops, counters, timers, and memory fundamentals. :contentReference[oaicite:0]{index=0}  
-- 🐧 **Open Source Operating Systems & Apps** — history and fundamentals of the open source movement, Linux OS concepts, file systems, and troubleshooting techniques. :contentReference[oaicite:1]{index=1}  
-- 🧩 **Networking & Computer Support Capstone** — applying networking and support skills to real-world projects like designing network architecture and implementing business-level solutions. :contentReference[oaicite:2]{index=2}  
+- 🎛️ **Digital Systems** — analyzing, designing, and troubleshooting digital logic circuits including logic gates, Boolean algebra, flip-flops, counters, timers, and memory fundamentals. 
+- 🐧 **Open Source Operating Systems & Apps** — history and fundamentals of the open source movement, Linux OS concepts, file systems, and troubleshooting techniques. 
+- 🧩 **Networking & Computer Support Capstone** — applying networking and support skills to real-world projects like designing network architecture and implementing business-level solutions. 
 - 🌐 Continued work on systems programming, C, web dev (C#/.NET + SQL), and automation tools  
 
 ---
