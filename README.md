@@ -18,14 +18,14 @@
 
 ## 🛠️ Projects & Shenanigans
 - 🏥 **BedsideBistro** — full-stack patient meal ordering system  
-  *C#, SQL, HTML/CSS, JS*  
-  Filters menus by dietary restrictions, tracks orders across patient, nurse, kitchen, and runner views.
+    *C#, SQL, HTML/CSS, JS*  
+    Filters menus by dietary restrictions, tracks orders across patient, nurse, kitchen, and runner views.
 - 🤖 **Glitch** — custom AI home assistant (Raspberry Pi)  
-  Voice commands, memory, automation, and mild sass.
+    Voice commands, memory, automation, and mild sass.
 - 🧙‍♀️ **L0R3.exe** — AI-powered D&D Dungeon Master bot  
-  Narrative generation, character management, and dice logic.
+    Narrative generation, character management, and dice logic.
 - 🧹 **Wasteland Whirler** — idle/clicker game about cleaning robots  
-  Post-apocalypse, Roombas, resource loops, hats (important).
+    Post-apocalypse, Roombas, resource loops, hats (important).
 - 📺 CRT robot helmet, smart mirror ideas, and other hardware thingymajigs
 
 ---
@@ -48,8 +48,3 @@ Windows 10/11, Server Administration, OS Admin, Virtualization, Electronics Repa
 **Other:**  
 System Analysis & Design, Documentation, Public Speaking, Mentoring
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=josieisnotarat&show_icons=true&theme=dark&layout=compact"
-       alt="josieisnotarat" />
-</p>
